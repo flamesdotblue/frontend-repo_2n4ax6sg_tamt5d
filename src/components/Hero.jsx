@@ -5,7 +5,7 @@ export default function Hero(){
   return (
     <section className="relative h-[420px] w-full overflow-hidden rounded-2xl border border-slate-200 bg-black">
       <div className="absolute inset-0">
-        <Spline scene="https://prod.spline.design/6tUXqVcUA0xgJugv/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+        <Spline scene="https://prod.spline.design/8fw9Z-c-rqW3nWBN/scene.splinecode" style={{ width: '100%', height: '100%' }} />
       </div>
       <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/40 to-transparent pointer-events-none" />
       <div className="relative z-10 h-full flex flex-col items-start justify-end p-6 sm:p-8">
@@ -17,7 +17,7 @@ export default function Hero(){
           TrafficPulse AI — Predictive Streaming Analytics
         </h1>
         <p className="mt-2 max-w-2xl text-slate-200/90 text-sm sm:text-base">
-          Real-time telemetry, short-term forecasting, and anomaly-aware alerts for proactive congestion management.
+          Two-car racing animation sets the stage for real-time telemetry, short-term forecasting, and anomaly-aware alerts.
         </p>
       </div>
     </section>
